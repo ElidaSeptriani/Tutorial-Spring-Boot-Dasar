@@ -18,7 +18,7 @@
 * Spring Framework adalah framework open source berbasis java yang menyediakan infrastruktur yang komprehensif dalam mengembangkan aplikasi java dengan mudah dan cepat.
 * Spring Framework menggunakan teknik pemrograman yang sederhana, model pemrograman dengan Spring cukup mudah, namun rapi. Hal Ini memudahkan bagi para developer pemula untuk mempelajarinya.
 * Dengan menggunakan Spring Framework, developer dapat membuat aplikasi enterprise ataupun web. Selain itu juga, para developer dapat membuat aplikasi untuk keamanan dan aplikasi yang terkait dengan big data
-* [https://spring.io/]
+* [https://socs.binus.ac.id/2017/10/04/framework-spring-java/]
 
 ### Pengenalan Spring Boot
 * Spring Boot merupakan framework untuk mempermudah pembuatan aplikasi Spring Framework
