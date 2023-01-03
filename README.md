@@ -1,17 +1,6 @@
 # TUTORIAL SPRING BOOT DASAR
 
 
-## Agenda
-
-* Pengenalan Spring
-* Inversion Of Control
-* Application Context
-* Depedency Injection
-* Bean
-* Life Cycle
-* Event Listener
-* Dan lain-lain
-
 ### Apa itu Spring?
 * Spring adalah proyek sumber terbuka yang menyediakan pendekatan modular yang efisien untuk membuat aplikasi dengan Java. Nama Spring sendiri biasanya mengacu pada kerangka kerja aplikasi itu sendiri atau keseluruhan kelompok proyek atau modul.
 
