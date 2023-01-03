@@ -14,6 +14,9 @@
 * Event Listener
 * Dan lain-lain
 
+### Apa itu Spring?
+* Spring adalah proyek sumber terbuka yang menyediakan pendekatan modular yang efisien untuk membuat aplikasi dengan Java. Nama Spring sendiri biasanya mengacu pada kerangka kerja aplikasi itu sendiri atau keseluruhan kelompok proyek atau modul.
+
 ### Pengenalan Spring Framework
 * Spring Framework adalah framework open source berbasis java yang menyediakan infrastruktur yang komprehensif dalam mengembangkan aplikasi java dengan mudah dan cepat.
 * Spring Framework menggunakan teknik pemrograman yang sederhana, model pemrograman dengan Spring cukup mudah, namun rapi. Hal Ini memudahkan bagi para developer pemula untuk mempelajarinya.
