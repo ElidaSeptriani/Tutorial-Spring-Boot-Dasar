@@ -22,9 +22,10 @@
 * [https://socs.binus.ac.id/2017/10/04/framework-spring-java/]
 
 ### Pengenalan Spring Boot
-* Spring Boot merupakan framework untuk mempermudah pembuatan aplikasi Spring Framework
-* Dahulu untuk menggunakan Spring Framework, untuk pemula tidaklah mudah, karena terlalu banyak yang harus dilakukan sebelum bisa membuat aplikasi
-* Spring Boot menjadikan kompleksitas tersebut ditangani secara otomatis oleh Spring Boot, sehingga kita bisa membuat aplikasi * Spring Framework secara cepat tanpa harus melakukan pengaturan apapun
-* Spring Boot sekarang sudah menjadi salah satu framework wajib ketika kita ingin membuat aplikasi Spring Framework
+* Spring Boot dirilis pertama kali pada tahun 2014 oleh tim Sprint di Pivotal. Pivotal adalah sebuah perusahaan yang menyediakan dukungan untuk Spring. 
+* Spring Boot adalah framework untuk mengembangkan aplikasi berbasis Java. Framework ini memiliki komunitas developer yang besar dan aktif. Spring Boot dapat digunakan untuk membangun berbagai macam jenis aplikasi. Contohnya microservice, dan web. 
+* Tujuan dibuatnya Spring Boot yaitu untuk mempermudah pembuatan aplikasi dan layanan production-grade berbasis Spring dengan konfigurasi minimal.
+* Spring Boot memberikan fitur dan tools tambahan di atas framework Spring. Hal ini membuat pengembangan dan deploy aplikasi spring lebih mudah untuk dilakukan. Spring Boot dirancang untuk membuat bootstrapping dan pengembangan aplikasi Spring yang baru menjadi lebih sederhana.
+* [https://josikie.com/apa-itu-spring-boot/]
 
 
