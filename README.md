@@ -1,8 +1,6 @@
 # TUTORIAL SPRING BOOT DASAR
 
 
-![Img 1](image/judul.png)
-
 ## Agenda
 
 * Pengenalan Spring
